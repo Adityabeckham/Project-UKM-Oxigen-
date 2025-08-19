@@ -34,6 +34,7 @@ Combine front-end, back-end, and UX design efforts into one cohesive product.
 
 👥 Team Roles
 Name	Role	Responsibilities
+
 Aditya Beckham	Front-end Developer	Developed GUI components using Java Swing and FlatLaf; connected UI to backend logic.
 
 Alif Ihsan Syamil	UI/UX Designer	Designed interface layouts and improved user experience based on real café workflows.
